@@ -2,7 +2,6 @@ asn1crypto==0.24.0
 astroid==1.6.5
 backports.functools-lru-cache==1.5
 configparser==3.7.3
-cryptography==2.1.4
 cycler==0.10.0
 Django==1.11.20
 django-filter==2.0.0
@@ -22,7 +21,6 @@ mccabe==0.6.1
 mercurial==4.5.3
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
-pycrypto==2.6.1
 pyflakes==1.6.0
 pygobject==3.26.1
 pyparsing==2.3.1
